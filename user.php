@@ -13,7 +13,6 @@ $id=intval($_GET['id']);
 include "delete.php";
 include "update.php";
 
-
 echo"
 <table width='90%' border='2'>
 
